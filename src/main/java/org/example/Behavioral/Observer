@@ -1,0 +1,7 @@
+Behavioral: Observer
+
+Purpose of the pattern:
+The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+Usage situations:
+It is useful when there is an object that changes its state frequently and other objects need to be informed of these changes.

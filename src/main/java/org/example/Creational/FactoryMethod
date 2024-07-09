@@ -1,0 +1,7 @@
+Creational: Factory Method
+
+Purpose of the pattern:
+The Factory Method pattern is used to define an interface for creating an object but allows subclasses to decide which class to instantiate. The Factory Method allows a class to delegate the responsibility of creation to its subclasses.
+
+Usage situations:
+It is useful when the code should not depend on the concrete class of the objects it needs to create. It is especially useful in applications where you need to handle multiple types of related or derived objects.

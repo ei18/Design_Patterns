@@ -1,0 +1,7 @@
+Structural: Decorator
+
+Purpose of the pattern:
+The Decorator pattern allows additional responsibilities to be added to an object dynamically. Decorators provide a flexible alternative to inheritance for extending functionality.
+
+Usage situations:
+It is useful when you want to add additional functionalities to individual objects in a flexible way without altering the code of the original class.
